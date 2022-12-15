@@ -3,3 +3,4 @@
 ### About
 
 Demo project for a Kotlin Spring Boot RESTful API.
+Very early stages.
